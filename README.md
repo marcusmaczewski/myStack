@@ -6,7 +6,7 @@
 - AstroJS
 
 ### Backend
-- MySQL via Prisma.io or Serialize
+- MySQL via Prisma.io or Sequelize
 
 ### Utils
 - Icons [Lucide](https://lucide.dev/)

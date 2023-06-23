@@ -5,8 +5,13 @@
 - NextJS (Typescript)
 - AstroJS
 
+### Fullstack
+- NextJS 13 (Typescript)
+- Nuxt 3 (Typescript - currently learning)
+
 ### Backend
 - MySQL via Prisma.io or Sequelize
+- NestJS (currently learning)
 
 ### Utils
 - Icons [Lucide](https://lucide.dev/)
@@ -21,3 +26,4 @@
 ### Debugging & Tests
 - Cypress
 - SentryJS
+- NGrok

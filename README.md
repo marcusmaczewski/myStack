@@ -6,7 +6,7 @@
 - AstroJS
 
 ### Fullstack
-- NextJS 13 (Typescript)
+- NextJS 14 (Typescript)
 - Nuxt 3 (Typescript - currently learning)
 
 ### Backend
@@ -21,7 +21,7 @@
 - SaSS
 - Mails [MailgunJS](https://www.mailgun.com/)
 - Mails [MailerSend](https://www.mailersend.com/)
-- Dates [DayJS](https://day.js.org/)
+- Dates [date-fns v3]([https://day.js.org/](https://blog.date-fns.org/v3-is-out/))
 
 ### Debugging & Tests
 - Cypress
